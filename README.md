@@ -37,3 +37,14 @@ code: for passing props object:
 ----------------------------------
 Looks like this Ater addition:
 ![stageForm](https://user-images.githubusercontent.com/103827746/192076651-62f361e3-fc60-42d7-8518-0fad2cb68291.JPG)
+
+
+Stage 4 Cart Modal overlays added: 
+Had to create a portal with an id in index.html
+Target that div in html by id and save it to a variable.
+
+pass the modal to the target dom.
+
+Looks like this after addition:
+![StageModalCart](https://user-images.githubusercontent.com/103827746/192083448-c83a216e-69fc-47f5-843d-3530fdbd3484.JPG)
+
