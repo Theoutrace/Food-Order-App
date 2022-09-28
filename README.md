@@ -48,3 +48,8 @@ pass the modal to the target dom.
 Looks like this after addition:
 ![StageModalCart](https://user-images.githubusercontent.com/103827746/192083448-c83a216e-69fc-47f5-843d-3530fdbd3484.JPG)
 
+
+
+Stage 5 Cart items added, count , total price, duplicate ordering, deleting the cart items:
+useContext, refs etc are used. Add(+) remove(-) buttons in the cart added.
+![StageCartItems](https://user-images.githubusercontent.com/103827746/192658185-2b3abab9-d23b-4b5f-ac59-358a815d8bd2.JPG)
